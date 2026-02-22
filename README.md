@@ -35,7 +35,3 @@ I'm a quick learner, enjoy solving practical problems, and thrive in collaborati
 - Adding simple, deployed projects to showcase my progress
 
 I'm open to chatting about IT traineeship opportunities in the Netherlands! If you see potential, have feedback, or want to connect, feel free to reach out via LinkedIn or email. Thanks for stopping by! 🚀
-
-<p align="center">
-  <img src="https://github-readme-stats.vercel.app/api?username=JuanDiegoo1998&show_icons=true&theme=radical&hide_border=true" alt="GitHub Stats" />
-</p>
