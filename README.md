@@ -1,7 +1,7 @@
 <h1 align="center">Hi there! I'm Juan Diego 👋</h1>
 
 <p align="center">
-  <img src="https://readme-typing-svg.demolab.com?font=Fira+Code&weight=500&size=22&pause=1000&color=0070F3&center=true&vCenter=true&width=450&lines=Computer+Engineering+Graduate;IT+Oportunities+in+the+Netherlands;Learning+Web+Dev%2C+Python+%26+Cloud;Fast+learner%2C+and+motivated" alt="Typing SVG" />
+  <img src="https://readme-typing-svg.demolab.com?font=Fira+Code&weight=500&size=22&pause=1000&color=0070F3&center=true&vCenter=true&width=450&lines=Computer+Engineering+Graduate;IT+Oportunities+in+the+Netherlands;Learning+Web+Dev%2C+Python+%26+Cloud;Fast+learner+and+motivated" alt="Typing SVG" />
 </p>
 
 <p align="center">
