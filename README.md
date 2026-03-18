@@ -1,37 +1,44 @@
-<h1 align="center">Hi there! I'm Juan Diego 👋</h1>
+# Juan Diego Martínez Díaz
 
-<p align="center">
-  <img src="https://readme-typing-svg.demolab.com?font=Fira+Code&weight=500&size=22&pause=1000&color=0070F3&center=true&vCenter=true&width=450&lines=Computer+Engineering+Graduate;IT+Oportunities+in+the+Netherlands;Learning+Web+Dev%2C+Python+%26+Cloud;Fast+learner+and+motivated" alt="Typing SVG" />
-</p>
+**Junior Software Developer** · Dordrecht, Netherlands  
+BSc Computer Engineering — University of Málaga (ETSII), 2025  
+📧 juandiegomartinezdiaz@gmail.com · [LinkedIn](https://linkedin.com/in/juan-diego-martinez-diaz)
 
-<p align="center">
-  Computer Engineer • Recently moved to the Netherlands (Dordrecht) • Passionate about technology and eager to kickstart my IT career.
-</p>
+---
 
-<div align="center">
-  <a href="https://www.linkedin.com/in/juan-diego-martinez-diaz/">
-    <img src="https://img.shields.io/badge/LinkedIn-0077B5?style=for-the-badge&logo=linkedin&logoColor=white" alt="LinkedIn"/>
-  </a>
-  <a href="mailto:juandiegomartinezdiaz@gmail.com">
-    <img src="https://img.shields.io/badge/Email-D14836?style=for-the-badge&logo=gmail&logoColor=white" alt="Email"/>
-  </a>
-</div>
+## About me
 
-### About Me
-I'm a recent Computer Engineering graduate excited to apply my knowledge in a real-world setting. I moved to the Netherlands because I believe it's one of the best places to grow in tech: innovative ecosystem, great work-life balance, and plenty of opportunities for juniors through traineeships.
+Computer Engineering graduate based in the Netherlands, immediately available for junior software developer roles. I specialise in the **Microsoft stack** (C#, Dynamics 365) and have hands-on experience with **Python, Docker and machine learning** through my final-year research project.
 
-I'm a quick learner, enjoy solving practical problems, and thrive in collaborative environments. Right now, I'm focusing on web development (frontend basics) and Python, but I'm open to cloud, DevOps, or data-related roles depending on the traineeship.
+Previously interned at **Avanade** (Accenture & Microsoft JV), developing Dynamics 365 CRM plugins in C# and JavaScript for a real enterprise client (Iberdrola).
 
-### 🛠️ Current Skills
-- **Web Frontend** — HTML5 · CSS3 · JavaScript (basic/intermediate)
-- **Backend/Scripting** — Python (in progress, scripts & small projects)
-- **Tools** — Git & GitHub · VS Code · Responsive Design (mobile-first)
-- **Other** — Basic SQL · Algorithms & Data Structures concepts
-- **Languages** — Spanish (native) · English (C1) · Dutch (beginner)
+---
 
-### 🚀 What I'm Working On
-- Building my personal portfolio (link coming soon!)
-- Preparing applications for traineeships
-- Adding simple, deployed projects to showcase my progress
+## Featured project
 
-I'm open to chatting about IT traineeship opportunities in the Netherlands! If you see potential, have feedback, or want to connect, feel free to reach out via LinkedIn or email. Thanks for stopping by! 🚀
+### 🛰️ [Multispectral & LiDAR Integration for AI Land Cover Classification](https://github.com/JuanDiegoo1998/[NOMBRE-REPO-TFG])
+
+End-to-end geospatial data pipeline combining Sentinel-2 satellite imagery and LiDAR point cloud data for supervised land cover classification.
+
+**Stack:** Python · Docker Compose · MinIO (S3) · PDAL · scikit-learn · QGIS  
+**Model:** Random Forest — 4 experimental configurations, 10 land cover classes
+
+---
+
+## Tech stack
+
+| Area | Technologies |
+|------|-------------|
+| Languages | Java · C# · C++ · JavaScript · Python · SQL |
+| Microsoft | Dynamics 365 · Azure DevOps · Git |
+| DevOps | Docker · Docker Compose · MinIO · Linux |
+| Data & ML | scikit-learn · PDAL · QGIS · Random Forest |
+| Concepts | OOP · Agile/Scrum · REST APIs · SQL databases |
+
+---
+
+## Currently
+
+- 🇳🇱 Based in Dordrecht, Netherlands — open to on-site/hybrid roles nationwide
+- 💼 Open to: Junior Software Developer · C# Developer · Dynamics 365 · Java Developer
+- 📚 Learning: Dutch · Azure (AZ-900)
