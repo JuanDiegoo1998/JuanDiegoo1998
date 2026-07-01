@@ -16,7 +16,7 @@ Previously interned at **Avanade** (Accenture & Microsoft JV), developing Dynami
 
 ## Featured project
 
-### 🛰️ [Multispectral & LiDAR Integration for AI Land Cover Classification](https://github.com/JuanDiegoo1998/[NOMBRE-REPO-TFG])
+### 🛰️ [Multispectral & LiDAR Integration for AI Land Cover Classification](https://github.com/JuanDiegoo1998/landcoverpy)
 
 End-to-end geospatial data pipeline combining Sentinel-2 satellite imagery and LiDAR point cloud data for supervised land cover classification.
 
